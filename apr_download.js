@@ -1,4 +1,7 @@
-// a5f74876.js中拷贝过来的源代码
+/* 
+* source code that directly copied from a5f74876.js on APR website.
+* a5f74876.js中拷贝过来的源代码 
+*/
 var Yr = typeof globalThis != "undefined" ? globalThis : typeof window != "undefined" ? window : typeof global != "undefined" ? global : typeof self != "undefined" ? self : {};
 function Zr(r) {
     return r && r.__esModule && Object.prototype.hasOwnProperty.call(r, "default") ? r.default : r
